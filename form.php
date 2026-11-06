@@ -22,6 +22,7 @@
             <option value="ประเภทอาหารสัตว์">ประเภทอาหารสัตว์</option>
             <option value="ประเภทของใช้ภายในบ้าน">ประเภทของใช้ภายในบ้าน</option>
             <option value="ประเภทสกินแคร์">ประเภทสกินแคร์</option>
+            <option value="ของใช้จิปาถะ">ประเภทของใช้ทั่วไป</option>
         </select><br><br>
         <label>วันที่ขายสินค้า</label>
         <input type="date" name="date" required><br><br>
